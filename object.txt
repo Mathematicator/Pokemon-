@@ -1,0 +1,28 @@
+Object
+Name LifePotion
+Type Potion
+LifeRecup 15
+AttackValue 0
+EndObject
+
+Object
+Name AttackPotion
+Type Potion
+LifeRecup 0
+AttackValue 15
+EndObject
+
+
+Object
+Name GuerisonFireDrug
+Type Drug
+SechageTerrain 0
+GuerisonBrulure 1
+EndObject
+
+Object
+Name SecTerrainDrug
+Type Drug
+SechageTerrain 1
+GuerisonBrulure 0
+EndObject

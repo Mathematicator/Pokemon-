@@ -1,0 +1,59 @@
+Monster
+Name Electricman
+Type Electric
+HP 110 141
+Speed 110 141
+Attack 75 106
+Defense 50 82
+Paralysis 0.2
+Wake 0.3
+EndMonster
+
+Monster
+Name Waterman
+Type Water
+HP 119 150
+Attack 68 99
+Speed 63 94
+Defense 85 116
+Flood 0.25
+Fall 0.35
+EndMonster
+
+Monster
+Name Fireman
+Type Fire
+HP 109 150
+Attack 60 90
+Speed 70 94
+Defense 80 106
+EndMonster
+
+Monster
+Name Insectman
+Type Insect
+HP 120 160
+Attack 50 80
+Speed 65 80
+Defense 90 120
+EndMonster
+
+Monster
+Name Plantman
+Type Plant
+HP 109 150
+Attack 60 90
+Speed 70 94
+Defense 80 106
+Probasoigne 0.32
+EndMonster
+
+Monster
+Name Rockman
+Type Rock
+HP 129 150
+Attack 50 99
+Speed 50 94
+Defense 80 106
+EndMonster
+

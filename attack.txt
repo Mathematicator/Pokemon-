@@ -1,0 +1,81 @@
+Attack
+Name Eclair
+Type Electric
+Power 15
+NbUse 10
+Fail 0.07
+EndAttack
+
+Attack
+Name EclairLow
+Type Electric
+Power 10
+NbUse 15
+Fail 0.07
+EndAttack
+
+Attack
+Name FireWind
+Type Fire
+Power 15
+NbUse 10
+Fail 0.07
+EndAttack
+
+Attack
+Name FireBreath
+Type Fire
+Power 10
+NbUse 15
+Fail 0.03
+EndAttack
+
+Attack
+Name GrassTornado
+Type Grass
+Power 15
+NbUse 10
+Fail 0.07
+EndAttack
+
+Attack
+Name GrassMountain
+Type Grass
+Power 10
+NbUse 15
+Fail 0.03
+EndAttack
+
+Attack
+Name ShotStone
+Type Rock
+Power 15
+NbUse 10
+Fail 0.07
+EndAttack
+
+Attack
+Name TommyGun
+Type Rock
+Power 10
+NbUse 15
+Fail 0.03
+EndAttack
+
+Attack
+Name Tsunami
+Type Water
+Power 15
+NbUse 10
+Fail 0.07
+EndAttack
+
+Attack
+Name WaterBomb
+Type Water
+Power 10
+NbUse 15
+Fail 0.03
+EndAttack
+
+
